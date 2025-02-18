@@ -1,0 +1,1 @@
+![Modelo relacional]("./recursos/Modelo conceptual proyecto.drawio (9).png")
