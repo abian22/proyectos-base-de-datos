@@ -1,0 +1,1 @@
+![Modelo conceptual](./capturas/modelo.conceptual.drawio.png)
