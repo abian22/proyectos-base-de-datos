@@ -1,1 +1,1 @@
-![Modelo relacional]("./recursos/Modelo conceptual proyecto.drawio (9).png")
+![Modelo relacional]("./capturas/modelo.conceptual.drawio.png");
